@@ -128,7 +128,7 @@ $lastNum--;
             <li id="2"><?php echo $name ?></li>
             <li id="3"><?php echo $num ?></li>
             <li id="4"><?php echo $dbl ?></li>
-            <li id="5"><?php echo $bool ? "true" : "false"; ?></li>
+            <li id="5"><?php echo $bool ?></li>
             <li id="6"><?php echo $phrase ?></li>
             <li id="7"><?php echo $names[1] ?></li>
             <li id="8"><?php echo COURSE ?></li>
