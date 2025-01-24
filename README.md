@@ -1,5 +1,6 @@
 # Practice Assignment 1
 Kyle's Fork Now:
+...Now should be in htdocs folder...
 
 - You can download this assignment, put it in the "htdocs" folder inside your XAMPP folder, and run it locally with XAMPP.
 - ...or any PHP server you want to use will also work.
